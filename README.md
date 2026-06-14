@@ -13,7 +13,7 @@
 3. Serwer wystartuje na porcie `8080`.
 
 ### 2.Frontend
-1.Otwórz folder frontend.
-2.Otwórz terminal i zainstaluj zależności `npm install`.
-3.Uruchom serwer komendą `npm run dev`.
-4.Aplikacja będzie dostępna w przeglądarce pod adresem `http://localhost:5173`.
+1. Otwórz folder frontend.
+2. Otwórz terminal i zainstaluj zależności `npm install`.
+3. Uruchom serwer komendą `npm run dev`.
+4. Aplikacja będzie dostępna w przeglądarce pod adresem `http://localhost:5173`.
