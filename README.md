@@ -1,8 +1,9 @@
 # Panel Pomiarowy - Zadanie rekrutacyjne
 
 ## Stack
-###Backend - Java + SpringBoot
-###Frontend - React.js
+
+### Backend - Java + SpringBoot
+### Frontend - React.js
 
 ## Instrukcja uruchomienia
 
